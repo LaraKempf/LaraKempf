@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I`m Lara 
+an aspiring WebDeveloper student at DCI with a passion for design. I´m driven by the art of creating visually captivating and functional websites.
 <!--
 **LaraKempf/LaraKempf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
